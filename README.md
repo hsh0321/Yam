@@ -1,14 +1,9 @@
-# 서울1반 A102팀 자율 프로젝트 YAM(Yours And Mine)
+# YAM(Yours And Mine) - 지역기반 물품 쉐어링 
 
 <div align="center">
   <img width="600" src="https://user-images.githubusercontent.com/60912550/142337946-2506d87a-b9bf-480a-8817-e6156a51518d.png" />
-
-|[이진호](https://github.com/jinho-pca)|[황성현](https://github.com/hsh0321)|[권영린](https://github.com/)|[김민재](https://github.com/)|[윤영은](https://github.com/)|
-|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://user-images.githubusercontent.com/60912550/136307383-a06166e6-2c28-4626-9723-6696e0d7ae9d.png" width="150" height="200" />|<img src="https://user-images.githubusercontent.com/60912550/142337719-ee6b2be5-fbbc-4e96-b24e-1df0dc9de1ad.jpeg" width="150" height="200" />|<img src="https://user-images.githubusercontent.com/60912550/142339921-5c44a30a-c75f-4f73-8aac-602b8fde1594.jpeg" width="150" height="200" />|<img src="https://user-images.githubusercontent.com/60912550/142338138-c29fc7c5-08b5-4e91-9772-ec0386be23d5.jpeg" width="150" height="200"  />|<img src="https://user-images.githubusercontent.com/60912550/142337551-3c46a4ff-c939-4ba7-9023-2575c1147adc.jpeg" width="150" height="200"  />|
-|Back-End <br/> |Front-End <br/>|Back-End  <br/>|Front-End <br/>|Back-End <br/>|
-
 </div>
+
 
 <br/>
 
@@ -27,13 +22,15 @@
 <br/>
 
 ## ✍ 서비스소개
-### 평소에 한번만 사용하고 더이상 사용하는 물건이 있거나, 필요하지만 사기에는 아까웠던 물건이 있는 경우  
-### YAM은 이러한 물건들을 위치정보에 기반하여 근처의 사용자들끼리 대여해주거나 대여할 수 있는 서비스를 제공합니다.
+  <img width="600" src="https://i.imgur.com/sgwY5TO.png" />
+
+* 평소에 한번만 사용하고 더이상 사용하는 물건이 있거나, 필요하지만 사기에는 아까웠던 물건이 있는 경우  
+* YAM은 이러한 물건들을 위치정보에 기반하여 근처의 사용자들끼리 대여해주거나 대여할 수 있는 서비스를 제공합니다.
 <br/><br/>
 
 ## 🙏 기대효과
-### 잠깐 혹은 일회성으로 필요한 물건들에 대한 불필요한 구매지출을 방지할 수 있고  
-### 잘 사용하지 않는 물건을 대여해주어 수익을 창출할 수 있습니다.
+* 잠깐 혹은 일회성으로 필요한 물건들에 대한 불필요한 구매지출을 방지할 수 있고  
+* 잘 사용하지 않는 물건을 대여해주어 수익을 창출할 수 있습니다.
 <br/><br/>
 
 ## 🛠 Architecture & 기술스택/배포
@@ -84,3 +81,16 @@ Resolves: #231
 #### [🍻 와이어프레임](https://www.figma.com/file/CXrbBcaXfdqFolMzwmwCxZ/%EC%9E%90%EC%9C%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=4%3A9)
 
 #### [📺 UCC](https://yam-s3.s3.ap-northeast-2.amazonaws.com/etc/YAM.mp4)  
+
+
+## Contributors
+
+<div align="center">
+
+|[이진호](https://github.com/jinho-pca)|[황성현](https://github.com/hsh0321)|[권영린](https://github.com/)|[김민재](https://github.com/)|[윤영은](https://github.com/)|
+|:-:|:-:|:-:|:-:|:-:|
+|<img src="https://user-images.githubusercontent.com/60912550/136307383-a06166e6-2c28-4626-9723-6696e0d7ae9d.png" width="150" height="200" />|<img src="https://user-images.githubusercontent.com/60912550/142337719-ee6b2be5-fbbc-4e96-b24e-1df0dc9de1ad.jpeg" width="150" height="200" />|<img src="https://user-images.githubusercontent.com/60912550/142339921-5c44a30a-c75f-4f73-8aac-602b8fde1594.jpeg" width="150" height="200" />|<img src="https://user-images.githubusercontent.com/60912550/142338138-c29fc7c5-08b5-4e91-9772-ec0386be23d5.jpeg" width="150" height="200"  />|<img src="https://user-images.githubusercontent.com/60912550/142337551-3c46a4ff-c939-4ba7-9023-2575c1147adc.jpeg" width="150" height="200"  />|
+|Back-End <br/> |Front-End <br/>|Back-End  <br/>|Front-End <br/>|Back-End <br/>|
+
+</div>
+
