@@ -1,8 +1,7 @@
 # YAM(Yours And Mine) - 지역기반 물품 쉐어링 
 
-<div align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/60912550/142337946-2506d87a-b9bf-480a-8817-e6156a51518d.png" />
-</div>
+
+  <img width="600" src="https://i.imgur.com/DCu1e1q.png" />
 
 
 <br/>
@@ -18,11 +17,12 @@
 ![StyleCI](https://img.shields.io/badge/NginX-1.8.0-purple)
 ![StyleCI](https://img.shields.io/badge/Docker-20.10.10-purple)
 ![StyleCI](https://img.shields.io/badge/Jenkins-2.303.3-purple)  
+![StyleCI](https://img.shields.io/badge/Redis-6.0.4-red)
+![StyleCI](https://img.shields.io/badge/STOMP-1.2-yellow)
 
 <br/>
 
 ## ✍ 서비스소개
-  <img width="600" src="https://i.imgur.com/sgwY5TO.png" />
 
 * 평소에 한번만 사용하고 더이상 사용하는 물건이 있거나, 필요하지만 사기에는 아까웠던 물건이 있는 경우  
 * YAM은 이러한 물건들을 위치정보에 기반하여 근처의 사용자들끼리 대여해주거나 대여할 수 있는 서비스를 제공합니다.
